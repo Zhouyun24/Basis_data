@@ -1,4 +1,6 @@
 jobdesk
--membuat makala
--membuat 5 ayam
--makan tauh
+- membuat makala
+- membuat 5 ayam
+- makan tauh
+- setiap id di ganti hello word
+- buang data/ hapus data
