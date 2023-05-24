@@ -1,0 +1,7 @@
+Rencananya sih gini
+- membuat database sekolah (DONE)
+- makan sore
+- membuat halaman dashboard
+- membuat halaman home
+- membuat halaman profile'
+- membuat halaman pembayaran spp
