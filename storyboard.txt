@@ -1,0 +1,6 @@
+STORY BOARD
+- membaut use case diagram
+- membuat flowacart
+- membaut wiframe
+- membuat prototype
+- mendemokan hasil prototype
