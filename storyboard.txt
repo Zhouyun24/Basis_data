@@ -3,3 +3,4 @@ STORY BOARD
 - membuat flowacart
 - membaut wiframe
 - membuat prototype
+- mendemokan hasil prototype
